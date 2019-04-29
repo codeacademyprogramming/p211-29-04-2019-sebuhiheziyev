@@ -1,0 +1,30 @@
+body {
+  height: 5000px;
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+li {
+  list-style-type: none;
+}
+
+.wrapper {
+  height: 600px;
+  display: flex;
+  border: 1px solid red;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.inner {
+  width: 40%;
+  background-color: teal;
+  color: white;
+  height: 100px;
+}
