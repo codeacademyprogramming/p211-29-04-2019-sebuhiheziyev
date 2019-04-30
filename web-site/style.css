@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Nunito";
+}
+body {
+  height: 5000px;
+  font-family: Nunito;
+  letter-spacing: 0.0625em;
+}
+img {
+  vertical-align: middle;
+  border-style: none;
+}
+.dagimg {
+  max-width: 100%;
+  height: auto;
+}
+.tekst {
+  background-color: #161616;
+  width: 700px;
+}
+.all {
+  display: flex;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+.tex {
+  color: white;
+  text-align: left;
+}
+.cen {
+  margin-top: 190px;
+  margin-left: 100px;
+}
+.head {
+  font-size: 24px;
+  font-weight: 500;
+}
+.prgf {
+  font-size: 14.4px;
+  color: rgba(255, 255, 255, 0.5);
+}
+hr {
+  border: solid;
+  border-color: #64a19d;
+  border-width: 0.25rem;
+  width: 30%;
+  margin-top: 15px;
+}
+.teksttwo{
+  background-color: #161616;
+  width: 700px;
+  height: 500px;
+  margin-bottom: 100px;
+}
+#alltex {
+  text-align: right;
+  margin-right: 100px;
+}
+.endhr{
+  margin-left: 347px;
+}
+#alls{
+  margin-top: -1px;
+}
